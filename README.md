@@ -8,4 +8,4 @@ instead of json , couch db will be replaced
 
 
 
-Iw will be released on jUNE-02
+It will be released on jUNE-02
